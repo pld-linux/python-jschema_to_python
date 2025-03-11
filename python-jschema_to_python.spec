@@ -8,7 +8,7 @@ Summary:	Generate Python classes from a JSON schema
 Summary(pl.UTF-8):	Generowanie klas pythonowych ze schematu JSON
 Name:		python-jschema_to_python
 Version:	1.2.3
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/jschema-to-python/
